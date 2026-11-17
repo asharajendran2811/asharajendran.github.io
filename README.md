@@ -2,7 +2,7 @@
 
 Personal portfolio of **Asha R**, a Full Stack Developer based in Chennai, India, with 3+ years of experience in React.js, Node.js, Express.js and MySQL.
 
-**Live site:** https://YOUR-USERNAME.github.io
+**Live site:** https://asharajendran.github.io
 
 ## About
 
